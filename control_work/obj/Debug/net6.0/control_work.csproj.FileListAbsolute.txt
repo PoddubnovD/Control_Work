@@ -1,0 +1,15 @@
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\control_work\control_task\control_work\bin\Debug\net6.0\control_work.exe
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\control_work\control_task\control_work\bin\Debug\net6.0\control_work.deps.json
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\control_work\control_task\control_work\bin\Debug\net6.0\control_work.runtimeconfig.json
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\control_work\control_task\control_work\bin\Debug\net6.0\control_work.dll
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\control_work\control_task\control_work\bin\Debug\net6.0\control_work.pdb
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\control_work\control_task\control_work\obj\Debug\net6.0\control_work.csproj.AssemblyReference.cache
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\control_work\control_task\control_work\obj\Debug\net6.0\control_work.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\control_work\control_task\control_work\obj\Debug\net6.0\control_work.AssemblyInfoInputs.cache
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\control_work\control_task\control_work\obj\Debug\net6.0\control_work.AssemblyInfo.cs
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\control_work\control_task\control_work\obj\Debug\net6.0\control_work.csproj.CoreCompileInputs.cache
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\control_work\control_task\control_work\obj\Debug\net6.0\control_work.dll
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\control_work\control_task\control_work\obj\Debug\net6.0\refint\control_work.dll
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\control_work\control_task\control_work\obj\Debug\net6.0\control_work.pdb
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\control_work\control_task\control_work\obj\Debug\net6.0\control_work.genruntimeconfig.cache
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\control_work\control_task\control_work\obj\Debug\net6.0\ref\control_work.dll
