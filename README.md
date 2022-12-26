@@ -20,11 +20,11 @@
 
 ## Блок схема:
 
-Блок схема находится в папке [_Block_diagram_](https://github.com/PoddubnovD/Control_Work/blob/main/block_diagram/block_diagram.png)
+Блок схема находится в папке [_block_diagram_](https://github.com/PoddubnovD/Control_Work/blob/main/block_diagram/block_diagram.png)
 
 ## Решение задачи:
 
-В папке [_control_work/Program.cs_](https://github.com/PoddubnovD/Control_Work/blob/main/control_work/Program.cs)
+В папке [_control_work_](https://github.com/PoddubnovD/Control_Work/blob/main/control_work/Program.cs)
 ```sh
 Пример запроса. Введите значения через пробел:
 
