@@ -1,4 +1,4 @@
-# `Контрольная итоговая работа`.
+# Контрольная итоговая работа.
 
 
 ## **_Задача:_**
@@ -19,13 +19,13 @@
 И так проверяем каждый элемент, как только все элементы массива будет проверены, проверку прекратить.
 
 ## Блок схема:
-```sh
-Блок схема находится в папке _Block_diagram_
-```
-## Решение задачи:
-```sh
-В папке _control_work/Program.cs_
 
+Блок схема находится в папке [_Block_diagram_](https://github.com/PoddubnovD/Control_Work/blob/main/block_diagram/block_diagram.png)
+
+## Решение задачи:
+
+В папке [_control_work/Program.cs_](https://github.com/PoddubnovD/Control_Work/blob/main/control_work/Program.cs)
+```sh
 Пример запроса. Введите значения через пробел:
 
 ["hello", "2", "world", ":-)"] -> Результат ["2", ":-)"]
